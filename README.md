@@ -1,4 +1,4 @@
-# ninelayer-in
+# Ninelayer
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ninelayer-in is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ninelayer.in/
+Ninelayer provides a search layer for AI agents, combining public web results, proprietary data, and memory of the agent. It offers fast, scoped, and cited context packets, enabling agents to retrieve and cite information from the open web, user‑uploaded corpora, and the agent’s own memory. The platform emphasizes privacy, security, and real‑time freshness, with features like encrypted storage, per‑project isolation, and transparent provenance for each fact returned.
+
+**Areas:** AI · Search · Context · Privacy · Security
+
+## Ninelayer on APIs.io
+
+Everything profiled for Ninelayer is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ninelayer-in/](https://apis.io/providers/ninelayer-in/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Ninelayer API](https://apis.io/apis/ninelayer-in/ninelayer-in-api/) — Ninelayer API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ninelayer API Rules](https://apis.io/rules/ninelayer-in/ninelayer-in-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ninelayer Domain Security](https://apis.io/security/ninelayer-in/ninelayer-in-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ninelayer Plans Pricing](https://apis.io/plans/ninelayer-in/ninelayer-in-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ninelayer.in/)
+- [Getting started](https://ninelayer.in/quickstart)
+- [Pricing](https://ninelayer.in/pricing)
+- [Changelog](https://ninelayer.in/changelog)
+- [Blog](https://ninelayer.in/blog)
+- [Terms of service](https://ninelayer.in/terms)
+- [Privacy policy](https://ninelayer.in/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.9** — developing · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 35.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 60.0 |
+
+**Agent readiness 19.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ninelayer-in/](https://apis.io/providers/ninelayer-in/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ninelayer: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ninelayer-in/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
